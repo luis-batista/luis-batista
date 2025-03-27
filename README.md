@@ -103,20 +103,15 @@ Graduando em Engenharia de Computação pela UERJ, com experiência em desenvolv
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luis-batista&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
+<div align="left">
+    <img 
       alt="GitHub Stats" 
       height="180" 
+      src="https://github-readme-stats.vercel.app/api?username=luis-batista&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+      alt="Top Languages" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-batista&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+    />
+</div>
