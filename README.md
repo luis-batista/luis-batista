@@ -2,7 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-Graduando em Engenharia de Computação pela UERJ, com experiência em desenvolvimento de sistemas e banco de dados. Atuei como pesquisador na universidade, desenvolvendo um projeto de modelagem computacional para estações meteorológicas. Atualmente, estou cursando o último período da minha graduação, com previsão de conclusão para jul/25.
+Desenvolvedor com experiência no desenvolvimento e evolução de soluções para e-commerce dentro do ecos-
+sistema VTEX, atuando com VTEX IO, React, TypeScript, JavaScript e GraphQL. Experiência na
+criação e manutenção de componentes, customizações de vitrines, páginas de produto, checkout e páginas de
+categoria, além de integrações com APIs e desenvolvimento de rotinas backend utilizando Node.js. Foco em
+qualidade de código, performance, experiência do usuário, conversão e resolução de problemas em produção.
+Graduado em Engenharia da Computação pela UERJ.
 
 <p align="left">
   
