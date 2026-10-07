@@ -2,12 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor com experiência no desenvolvimento e evolução de soluções para e-commerce dentro do ecos-
-sistema VTEX, atuando com VTEX IO, React, TypeScript, JavaScript e GraphQL. Experiência na
-criação e manutenção de componentes, customizações de vitrines, páginas de produto, checkout e páginas de
-categoria, além de integrações com APIs e desenvolvimento de rotinas backend utilizando Node.js. Foco em
-qualidade de código, performance, experiência do usuário, conversão e resolução de problemas em produção.
-Graduado em Engenharia da Computação pela UERJ.
+Desenvolvedor com experiência no desenvolvimento e evolução de soluções para e-commerce dentro do ecossistema VTEX, atuando com VTEX IO, React, TypeScript, JavaScript e GraphQL. Experiência na criação e manutenção de componentes, customizações de vitrines, páginas de produto, checkout e páginas de categoria, além de integrações com APIs e desenvolvimento de rotinas backend utilizando Node.js. Foco em qualidade de código, performance, experiência do usuário, conversão e resolução de problemas em produção. Graduado em Engenharia da Computação pela UERJ.
 
 <p align="left">
   
